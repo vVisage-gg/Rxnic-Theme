@@ -51,7 +51,7 @@ do
         ["BBot"] = {
             2,
             httpService:JSONDecode(
-                [[{"FontColor":"ffffff","MainColor":"1e1e1e","AccentColor":"7e48a3","BackgroundColor":"232323","OutlineColor":"141414"}]]
+                [[{"FontColor":"ffffff","MainColor":"191919","AccentColor":"ef444e","BackgroundColor":"0f0f0f","OutlineColor":"262626"}]]
             ),
         },
         ["Fatality"] = {
